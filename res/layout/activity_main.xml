@@ -10,6 +10,6 @@
  	<TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="00033"
+        android:text="7777"
          />
 </RelativeLayout>
