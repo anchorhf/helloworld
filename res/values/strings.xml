@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">helloworld</string>
-    <string name="hello_world">大纲太2了!</string>
+    <string name="hello_world">大纲太3了!</string>
     <string name="action_settings">Settings</string>
 
 </resources>
